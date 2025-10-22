@@ -1,0 +1,3 @@
+timestamp,proto,src,dst,sport,dport,length,notes
+2025-10-21T10:00:00,DNS,192.168.10.5,1.1.1.1,,,98,qname=example.com
+2025-10-21T10:00:05,TCP,192.168.10.5,142.250.72.46,51742,80,640,
